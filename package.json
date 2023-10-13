@@ -1,0 +1,14 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "a nodejs application meant to find habbitable planets from kepler data",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KOBBY",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.2"
+  }
+}
